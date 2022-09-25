@@ -1,0 +1,4 @@
+.cardHandler {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(6rem, 1fr));
+}
